@@ -37,7 +37,7 @@ The chatbot is written in flask as backend and hosted on the google app engine s
 * Higher accuracy in the smile detection algorithm
 
 ## Authors
+* Ramchalam K R
 * Gustavo
 * Jaspal
-* Ramchalam K R
 * Tommy
