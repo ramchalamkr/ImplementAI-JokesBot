@@ -1,5 +1,5 @@
 # ImplementAI-JokesBot
-Our jokes bot for the implementAI hackathon
+Our jokes bot for the implementAI hackathon - https://devpost.com/software/robert-the-jokesbot
 
 ## Inspiration
 The only people that ever said Roberto the Bot was funny were his mom and his 6 year old brother. He wanted to know for sure which jokes were funny and which were not, so he turned to machine learning for help.
